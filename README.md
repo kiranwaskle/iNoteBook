@@ -21,6 +21,7 @@ create, edit, delete, and organize their notes efficiently.
 🗒️Note Management:
 
 ➡️Create, edit, and delete notes with ease.
+
 ➡️Organize notes by categories, tags, or titles for better accessibility.
 
 
