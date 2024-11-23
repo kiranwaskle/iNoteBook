@@ -8,11 +8,13 @@ create, edit, delete, and organize their notes efficiently.
 
 🔑Key Features
 
+
 🔐User Authentication and Security:
 
 ➡️Secure user sign-up and login functionality with encrypted passwords.
 
 ➡️Token-based authentication using JWT (JSON Web Tokens) to ensure data privacy.
+
 
 
 
@@ -22,11 +24,13 @@ create, edit, delete, and organize their notes efficiently.
 ➡️Organize notes by categories, tags, or titles for better accessibility.
 
 
+
 💻Responsive User Interface:
 
 ➡️Built with React to deliver a dynamic and seamless user experience.
 
 ➡️Fully responsive design, optimized for desktops, tablets, and mobile devices.
+
 
 
 
@@ -38,9 +42,11 @@ create, edit, delete, and organize their notes efficiently.
 
 
 
+
 ⏰️📈️Real-Time Updates:
 
 ➡️Instant changes to the notes are reflected in real-time, providing a fluid experience.
+
 
 
 
